@@ -1,0 +1,22 @@
+@import "cssfont/grenze.css";
+
+html {
+  font-family: "Grenze Gotisch";
+}
+
+.satu {
+  font-weight: 500;
+  font-size: 40px;
+}
+.dua {
+  font-weight: 600;
+  font-size: 40px;
+}
+.tiga {
+  font-size: 40px;
+  font-weight: 700;
+}
+.empat {
+  font-size: 40px;
+  font-weight: 800;
+}
